@@ -1,5 +1,6 @@
 ## Project Overview
 Libraries Used: pandas, numpy, matplotlib.pyplot, seaborn, sklearn
+
 Dataset: Reads IceCreamData.csv, which contains Temperature and Revenue columns.
 ### Data Preprocessing:
 Checks for missing values.
